@@ -1,5 +1,7 @@
 # 🛍️ Customer Behaviour Analysis
 
+### Uncovering spending patterns, loyalty trends & business risks in retail customer data
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=flat&logo=postgresql)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi)
@@ -77,9 +79,6 @@ data cleaning → SQL analysis → visual dashboard
 ---
 
 ## ⚠️ Dataset Limitations & Bias
-
-Being honest about data limitations is what separates good 
-analysts from great ones.
 
 - **Loyalty bias** — 70% of the dataset is Loyal customers. 
   This means findings about "average customer behaviour" 
