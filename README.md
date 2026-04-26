@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=flat&logo=postgresql)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
 
 ---
 
@@ -47,52 +46,52 @@ data cleaning → SQL analysis → visual dashboard
 ## 🔍 Key Findings
 
 ### 👥 Customer Profile
-- **70% of customers are Loyal** repeat buyers — the business 
+- **70% of customers are Loyal** repeat buyers- the business 
   has a strong retention base
-- **68% of customers are Male** — the customer base skews 
+- **68% of customers are Male**- the customer base skews 
   heavily toward one gender
-- **Young Adults are the highest spending age group** — 
+- **Young Adults are the highest spending age group**- 
   followed closely by Middle-aged customers
-- All four age groups spend within a similar range — 
+- All four age groups spend within a similar range- 
   no single age group dominates significantly
 
 ### 💰 Revenue & Business Health
-- **42.65% of revenue is discount-driven** — nearly half the 
+- **42.65% of revenue is discount-driven**- nearly half the 
   business depends on discounts to generate sales, which is 
   a significant margin risk
 - **Non-subscribers generate 57% of revenue** despite being 
-  a separate segment — subscribers are not pulling significantly 
+  a separate segment- subscribers are not pulling significantly 
   more weight
-- **73% of customers are not subscribed** — this is either a 
+- **73% of customers are not subscribed**- this is either a 
   massive untapped opportunity or a sign the subscription 
   product needs improvement
-- **Repeat rate is 89.13%** — customers keep coming back, 
+- **Repeat rate is 89.13%**- customers keep coming back, 
   which is a strong signal of brand loyalty
 
 ### 🛍️ Product & Seasonal Trends
 - **Clothing is the top performing category** by total revenue
-- **Fall is the peak revenue season** — Spring follows closely, 
+- **Fall is the peak revenue season**- Spring follows closely, 
   Summer is the weakest
-- **Free Shipping is the most preferred shipping method** — 
+- **Free Shipping is the most preferred shipping method**- 
   customers are sensitive to delivery costs
 
 ---
 
 ## ⚠️ Dataset Limitations & Bias
 
-- **Loyalty bias** — 70% of the dataset is Loyal customers. 
+- **Loyalty bias**- 70% of the dataset is Loyal customers. 
   This means findings about "average customer behaviour" 
   are skewed toward repeat buyers and may not represent 
   new customer behaviour accurately
-- **Gender imbalance** — 68% Male customers means insights 
+- **Gender imbalance**- 68% Male customers means insights 
   about female customer preferences are based on a smaller 
   sample and may be less reliable
-- **No time dimension** — the dataset has no transaction dates, 
+- **No time dimension**- the dataset has no transaction dates, 
   making it impossible to track trends over time or measure 
   growth/decline
-- **No cost data** — we can see revenue but not profit margins, 
+- **No cost data**- we can see revenue but not profit margins, 
   so the true impact of discounting cannot be fully measured
-- **Location data is US-only** — findings about regional 
+- **Location data is US-only**- findings about regional 
   performance are limited to one market
 
 ---
@@ -101,7 +100,7 @@ data cleaning → SQL analysis → visual dashboard
 
 | Finding | Recommendation |
 |---|---|
-| 73% not subscribed | Launch a targeted subscription campaign for loyal customers who aren't subscribed yet — they're the most likely to convert |
+| 73% not subscribed | Launch a targeted subscription campaign for loyal customers who aren't subscribed yet- they're the most likely to convert |
 | 42% discount dependency | Audit which products are discounted most and test reducing discounts gradually to protect margins |
 | Fall is peak season | Concentrate marketing budget and stock investment in Fall campaigns |
 | Young Adults spend most | Tailor product recommendations and ads toward the 18-30 age group |
@@ -111,10 +110,10 @@ data cleaning → SQL analysis → visual dashboard
 
 ## 📊 Dashboard Preview
 
-### Page 1 — Who is our customer?
+### Page 1- Who is our customer?
 ![Dashboard 1](Customer%20Behaviour%20Analysis/Dashboard/Dashboard%201.png)
 
-### Page 2 — What are they buying and when?
+### Page 2- What are they buying and when?
 ![Dashboard 2](Customer%20Behaviour%20Analysis/Dashboard/Dashboard%202.png)
 
 ---
@@ -140,7 +139,6 @@ customer-behaviour-analysis/
 
 ## 🙋‍♀️ About Me
 
-Aspiring Data Analyst based in Bengaluru, actively looking 
-for entry-level opportunities.
+Data Analyst based in Bengaluru
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url-here)
